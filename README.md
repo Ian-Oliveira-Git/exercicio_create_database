@@ -1,1 +1,1 @@
-# Repositório de códigos dos comandos DDL da disciplina de BD 1.
+# Repositório de códigos dos comandos DDL da disciplina de BD I.
